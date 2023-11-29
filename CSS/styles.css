@@ -1,0 +1,30 @@
+header{
+    flex-direction: row; 
+    background-color: orange;
+    min-height: 200px;
+    width: 100%;
+}
+
+.container {
+    flex-direction: row;
+}
+
+footer{
+    min-height: 200px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: orange;
+}
+
+.foot_img{
+    height: 100%;
+    border-radius: 50%;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+}
