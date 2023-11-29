@@ -21,7 +21,7 @@ footer{
     border-radius: 50%;
 }
 
-a:hover{
+li:hover{
     text-decoration: underline;
 }
 
