@@ -9,6 +9,10 @@ header{
     flex-direction: row;
 }
 
+.container_img{
+    height: 400px;
+}
+
 footer{
     min-height: 200px;
     flex-wrap: wrap;
